@@ -64,7 +64,15 @@ Download or clone the repository to your local system
 - Improve mobile responsiveness for all screen sizes
 
 # Credits
-Developed by Prawin Kumar Mandal as a major academic project in Computer Science Engineering.
+Developed as a major academic project in Computer Science Engineering by:
+- Prawin Kumar Mandal
+- Ramanuj Pathak
+- Hariom
+- Sagar Kumar
+
+# Mentor
+Sheetal Singh
+Department of Computer Science Engineering, [Vidya Vihar Institute of Technology, Purnea].
 
 Feel free to connect:
 
