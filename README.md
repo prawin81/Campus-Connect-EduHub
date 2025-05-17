@@ -28,8 +28,15 @@ This project was created as a major project to demonstrate core concepts of fron
 
 - JavaScript for logic and interactivity
 
-- VsCode For Editor 
+- VsCode For Editor
 
+## 📸 Screenshots
+### 🧾 Student Form Interface  
+ ![Student Table]("C:\Users\prawi\Desktop\tablewithdata.png")
+
+### 📋 Table with Student Data  
+![Student Table]("C:\Users\prawi\Desktop\studentform.png")
+  
 # Folder Structure
 student-management-system
 │
