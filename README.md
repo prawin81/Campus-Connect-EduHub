@@ -72,7 +72,7 @@ Developed as a major academic project in Computer Science Engineering by:
 
 # Mentor
 - Sheetal Singh
-Department of Computer Science Engineering, Vidya Vihar Institute of Technology, Purnea.
+- Department of Computer Science Engineering, Vidya Vihar Institute of Technology, Purnea.
 
 # Feel free to connect:
 
