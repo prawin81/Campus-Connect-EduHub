@@ -64,12 +64,12 @@ Download or clone the repository to your local system
 - Improve mobile responsiveness for all screen sizes
 
 # Credits
-Developed by Parveen as a major academic project in Computer Science Engineering.
+Developed by Prawin Kumar Mandal as a major academic project in Computer Science Engineering.
 
 Feel free to connect:
 
-- Instagram: @prawin.krishna89
-- YouTube: Prawin Prawin Kumar Mandal
+- Instagram: https://www.instagram.com/prawin.krishna89/
+- linkedin: https://www.linkedin.com/in/prawin-mandal56/
 - Email: prawinkumar564@gmail.com.com
 
 # License
