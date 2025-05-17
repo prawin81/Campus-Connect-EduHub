@@ -32,10 +32,10 @@ This project was created as a major project to demonstrate core concepts of fron
 
 ## 📸 Screenshots
 ### 🧾 Student Form Interface  
- ![Student Table]("C:\Users\prawi\Desktop\tablewithdata.png")
+ ![Student Table](tablewithdata.png)
 
 ### 📋 Table with Student Data  
-![Student Table]("C:\Users\prawi\Desktop\studentform.png")
+![Student Table](studentform.png)
   
 # Folder Structure
 student-management-system
