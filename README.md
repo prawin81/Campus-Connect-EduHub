@@ -71,10 +71,10 @@ Developed as a major academic project in Computer Science Engineering by:
 - Sagar Kumar
 
 # Mentor
-Sheetal Singh
-Department of Computer Science Engineering, [Vidya Vihar Institute of Technology, Purnea].
+- Sheetal Singh
+Department of Computer Science Engineering, Vidya Vihar Institute of Technology, Purnea.
 
-Feel free to connect:
+# Feel free to connect:
 
 - Instagram: https://www.instagram.com/prawin.krishna89/
 - linkedin: https://www.linkedin.com/in/prawin-mandal56/
