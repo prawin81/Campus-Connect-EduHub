@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Student Management System</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+</head>
+<body>
+  <header>
+    <div class="header-container">
+      <div class="logo">
+        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135768.png" alt="Logo" />
+        <span id="logo-text">Student Management System</span>
+      </div>
+      <nav>
+        <a href="index.html" id="nav-home">Home</a>
+        <a href="about.html" id="nav-about">About</a>
+        <a href="contact.html" id="nav-contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="input-container">
+      <input type="text" id="name" placeholder="Name" />
+      <input type="email" id="email" placeholder="Email" />
+      <input type="number" id="age" placeholder="Age" />
+      <input type="text" id="grade" placeholder="GPA" />
+      
+      <!-- Degree Dropdown -->
+      <select id="degree">
+        <option value="" disabled selected id="degree-placeholder">Select Degree</option>
+        <option value="B.Tech">B.Tech</option>
+        <option value="BCA">BCA</option>
+        <option value="BBA">BBA</option>
+        <option value="M.Tech">M.Tech</option>
+        <option value="MBA">MBA</option>
+      </select>
+
+      <!-- Session Dropdown -->
+      <select id="session">
+        <option value="" disabled selected id="session-placeholder">Select Session</option>
+        <option value="2020-2024">2020-2024</option>
+        <option value="2021-2025">2021-2025</option>
+        <option value="2022-2026">2022-2026</option>
+        <option value="2023-2027">2023-2027</option>
+        <option value="2024-2028">2024-2028</option>
+      </select>
+
+      <!-- File upload input -->
+      <input type="file" id="profilePic" accept="image/*" />
+    </div>
+
+    <button class="button" onclick="addStudent()" id="submit-btn">Add Student</button>
+
+    <input type="text" id="search" class="search" onkeyup="search()" placeholder="Search by name, email, degree or session" />
+
+    <table class="table">
+      <thead>
+        <tr>
+          <th id="th-id">ID</th>
+          <th id="th-name">Name</th>
+          <th id="th-email">Email</th>
+          <th id="th-age">Age</th>
+          <th id="th-grade">GPA</th>
+          <th id="th-degree">Degree</th>
+          <th id="th-session">Session</th>
+          <th id="th-pic">Profile Pic</th>
+          <th id="th-actions">Actions</th>
+        </tr>
+      </thead>
+      <tbody id="student-list"></tbody>
+    </table>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+<footer>
+  <div class="footer-container">
+    <img
+      src="https://cdn-icons-png.flaticon.com/512/3135/3135768.png"
+      alt="College Logo"
+      class="footer-logo"
+    />
+    <div class="footer-info">
+      <h3 id="college-name">Vidya Vihar Institute of Technology, Purnea</h3>
+      <p id="copyright">© 2025 VVIT,PURNEA. All rights reserved.</p>
+      <p id="contact-info">Contact: vidyaviharit@gmail.com | +91 - 7781005263</p>
+    </div>
+  </div>
+</footer>
+</html>
