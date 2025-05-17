@@ -22,21 +22,21 @@ This project was created as a major project to demonstrate core concepts of fron
 - Mobile responsive layout
 
 # Technologies Used
-HTML5 for structure
+- HTML5 for structure
 
-CSS3 for basic styling
+- CSS3 for basic styling
 
-JavaScript for logic and interactivity
+- JavaScript for logic and interactivity
 
-VsCode For Editor 
+- VsCode For Editor 
 
 # Folder Structure
 student-management-system
 │
-├── index.html - Main HTML file
-├── script.js - JavaScript functionality
-├── style.css - Optional styling file
-└── README.md - Project documentation
+- ├── index.html - Main HTML file
+- ├── script.js - JavaScript functionality
+- ├── style.css - Optional styling file
+- └── README.md - Project documentation
 
 # How to Run
 Download or clone the repository to your local system
@@ -68,9 +68,9 @@ Developed by Parveen as a major academic project in Computer Science Engineering
 
 Feel free to connect:
 
-Instagram: @prawin.krishna89
-YouTube: Prawin Prawin Kumar Mandal
-Email: prawinkumar564@gmail.com.com
+- Instagram: @prawin.krishna89
+- YouTube: Prawin Prawin Kumar Mandal
+- Email: prawinkumar564@gmail.com.com
 
 # License
 This project is open source and available under the MIT License.
